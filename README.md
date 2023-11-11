@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Maladroy</h1>
+  <h1>Hello, I'm Misnomer</h1>
 </div>
 
 👋 Welcome to my GitHub profile! I'm a passionate junior full-stack developer on a journey to create delightful web experiences. 
