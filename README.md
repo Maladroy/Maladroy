@@ -17,13 +17,10 @@
 
 I enjoy working with a variety of web technologies, including:
 
-- HTML5
-- CSS3
-- JavaScript
 - React.js
+- Next.js
 - Express.js
 - XState
-- Git & GitHub
 
 I'm always eager to expand my skill set and explore new tools.
 
@@ -35,18 +32,14 @@ Feel free to reach out and connect with me on the following platforms:
 
 ## 🌐 Check Out My Work
 
-Explore some of my projects and contributions on my [GitHub repositories](https://github.com/Maladroy). Don't hesitate to leave feedback or collaborate on interesting projects!
+Explore some of my projects and contributions on my [GitHub repositories](https://github.com/Mis-nomer). Don't hesitate to leave feedback or collaborate on interesting projects!
 
-📫 Feel free to contact me via email at [hoangchilam@pm.me] for any inquiries or collaborations.
+📫 Feel free to contact me via email at hoangchilam@pm.me for any inquiries or collaborations.
 
 🚀 Let's create amazing web experiences together!
 
 
 <!--
-**Maladroy/Maladroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
