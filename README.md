@@ -4,7 +4,7 @@
 
 👋 Welcome to my GitHub profile! I'm a passionate junior full-stack developer on a journey to create delightful web experiences. 
 
-![Maladroy's Stats](https://github-readme-stats.vercel.app/api?username=maladroy&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Maladroy's Stats](https://github-readme-stats.vercel.app/api?username=mis-nomer&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 🌟 Here's a little about me:
 
